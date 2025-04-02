@@ -40,7 +40,6 @@
 ### dill==0.3.8
 ### dnspython==2.7.0
 ### email_validator==2.2.0
-### en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
 ### eventlet==0.39.1
 ### executing==2.2.0
 ### fastapi==0.115.11
